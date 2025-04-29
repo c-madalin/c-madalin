@@ -16,8 +16,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-madalin&layout=compact&langs_count=7&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-madalin&show_icons=true&locale=en&layout=compact" alt="c-madalin" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=c-madalin&show_icons=true&theme=tokyonight)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c-madalin&show_icons=true&locale=en" alt="c-madalin" /></p>
+
 
