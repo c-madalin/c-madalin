@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi+I'm+Madalin+Cazan;Computer+Science+Student;Back-End+%2F+Cloud+Dev+Enthusiast" />
 
-<h3 align="left"> I am a second-year student studying Computer Science at the Faculty of Mathematics and Computer Science.</h3>
+<h3 align="left">Third-year studying Computer Science at the Faculty of Mathematics and Computer Science in Brasov.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
